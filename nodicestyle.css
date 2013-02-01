@@ -1,0 +1,12 @@
+#nodicepage {
+display: none;
+}
+
+body{
+background-color: #000;}
+
+p {
+color:#FFF;
+font-size: 60pt;
+text-align: left;
+}
